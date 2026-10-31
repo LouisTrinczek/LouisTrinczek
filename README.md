@@ -8,6 +8,15 @@
 [![GitLab](https://img.shields.io/badge/GitLab-gitlab--activity--graph--creator-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/LouisTrinczek/gitlab-activity-graph-creator)
 [![Docker](https://img.shields.io/badge/Docker-registry.gitlab.com-2496ED?style=flat&logo=docker&logoColor=white)](https://gitlab.com/LouisTrinczek/gitlab-activity-graph-creator/container_registry)
 
+#### Featured Project — Mealie OAuth MCP
+
+> A remote MCP server that lets AI agents like Claude work with your Mealie recipes, meal plans and shopping lists.  
+> Every user logs in through Mealie's own OIDC provider, so each agent acts with that user's permissions, with no shared API token.
+
+[![GitHub](https://img.shields.io/badge/GitHub-mealie--oauth--mcp-181717?style=flat&logo=github&logoColor=white)](https://github.com/LouisTrinczek/mealie-oauth-mcp)
+[![Docker](https://img.shields.io/badge/Docker-ghcr.io-2496ED?style=flat&logo=docker&logoColor=white)](https://github.com/LouisTrinczek/mealie-oauth-mcp/pkgs/container/mealie-oauth-mcp)
+[![Release](https://img.shields.io/github/v/release/LouisTrinczek/mealie-oauth-mcp?style=flat)](https://github.com/LouisTrinczek/mealie-oauth-mcp/releases/latest)
+
 #### 📊 My GitLab Activity
 
 [![GitLab Activity Graph](https://gitlab-activity-graph.lt-ds.de/gitlab-activity/LouisTrinczek?theme=panda)](https://gitlab.com/LouisTrinczek/gitlab-activity-graph-creator)
